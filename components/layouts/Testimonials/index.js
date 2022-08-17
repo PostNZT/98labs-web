@@ -32,7 +32,7 @@ const testimonials = [
   [
     {
       content:
-        'The best part about 98Labs is every time I connect with them about the game I wanted added as a feature, they always get back to me as soon as possible.',
+        'The best part about 98Labs is every time I connect with them about the application I wanted added as a feature, they always get back to me as soon as possible.',
       author: {
         name: 'Carl Knudsen',
         role: 'Founder of Discordia',
@@ -41,7 +41,7 @@ const testimonials = [
     },
     {
       content:
-        'There are so many things I had to do with my old game provider that its just easy with 98Labs. I love it.',
+        'There are so many things I had to do with my old application provider that its just easy with 98Labs. I love it.',
       author: {
         name: 'Erica Bot',
         role: 'COO at Cult of Silence',
